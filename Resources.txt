@@ -1,0 +1,15 @@
+Creating Boxplots multiple columns using Seaborn - http://bit.ly/2MPIxa8  
+
+How to Resize Figure -  http://bit.ly/2pjhYR6
+
+Scipy Dependent T-test Statistic - http://bit.ly/2pl6dcW 
+
+Variants of the Stroop Effect - http://bit.ly/2plhxWu
+
+Paired Sample T-Test in Python - http://bit.ly/2CryINU
+
+Paired T-Test - http://bit.ly/2Crz8Uo
+
+Assumptions of Normality - http://bit.ly/2CSyekV
+
+Stroop Effect in Marketing - http://bit.ly/2CrD5IO
